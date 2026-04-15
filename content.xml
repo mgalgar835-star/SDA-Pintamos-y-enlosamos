@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260415215708WQ4ZTO</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260415215708XRUX4V</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SDA Pintamos y enlosamos nuestra clase: proyecto de reforma integral del taller usando las matemáticas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Manuel Gallardo García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto se centra en la planificación y simulación de una reforma real del aula-taller, concretamente el pintado de paredes y el enlosado del suelo. A través de esta propuesta el alumnado se enfrenta a una situación práctica que conecta directamente con el entorno profesional de los oficios técnicos.
+
+El centro de interés consiste en analizar, medir y planificar una intervención real en el espacio de trabajo, lo que permite comprender cómo se organizan las reformas en el ámbito profesional y cómo interactúan distintos gremios como electricistas, albañiles o pintores.
+
+De este modo, el alumnado aprende a aplicar conocimientos matemáticos, técnicos y digitales en una situación cercana a la realidad laboral, desarrollando habilidades de planificación, resolución de problemas y trabajo en equipo.
+
+Esta situación de aprendizaje está pensada para el alumnado de 2º del Ciclo Formativo de Grado Básico de Electricidad y Electrónica.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776283020501</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo0h1q9j-rnwbqkg8u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Pintamos y enlosamos el aula</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pintamos y enlosamos el aula</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pintamos y enlosamos el aula</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1q9j-rnwbqkg8u</odePageId>
+      <odeBlockId>block-mnq96ew8-rg0jrjn4h</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1q9j-rnwbqkg8u</odePageId>
+          <odeBlockId>block-mnq96ew8-rg0jrjn4h</odeBlockId>
+          <odeIdeviceId>idevice-mnq96ew8-wv7mgdwtm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<figure class="exe-figure exe-image license-CC0" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_lkkjy4lkkjy4lkkj.png" alt="" title="Reforma aula taller" width="803" height="438" style="display: block; margin-left: auto; margin-right: auto;" />
+<figcaption class="figcaption"><span class="author">                             Imagen generada con inteligencia artificial. Gemini / Nanobanana. Uso educativo</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)<br /><br /></span></span></figcaption>
+</figure>
+<h4 class="exe-figure exe-image license-CC0" style="width: 1408px;">Centro de interés o temática</h4>
+<p>El proyecto se centra en la planificación y simulación de una reforma real del aula-taller, concretamente el pintado de paredes y el enlosado del suelo. A través de esta propuesta el alumnado se enfrenta a una situación práctica que conecta directamente con el entorno profesional de los oficios técnicos.</p>
+<p>El centro de interés consiste en analizar, medir y planificar una intervención real en el espacio de trabajo, lo que permite comprender cómo se organizan las reformas en el ámbito profesional y cómo interactúan distintos gremios como electricistas, albañiles o pintores.</p>
+<p>De este modo, el alumnado aprende a aplicar conocimientos matemáticos, técnicos y digitales en una situación cercana a la realidad laboral, desarrollando habilidades de planificación, resolución de problemas y trabajo en equipo.</p>
+<h4>Nivel al que va dirigido: 2º FP Grado Básico (Electricidad)</h4>
+<p>Esta Situación de Aprendizaje está dirigida al alumnado de 2º curso de Formación Profesional de Grado Básico en Electricidad.</p>
+<p>En esta etapa educativa el alumnado necesita trabajar mediante situaciones prácticas y contextualizadas que conecten el aprendizaje con la realidad laboral. Un proyecto de reforma del propio taller resulta especialmente motivador, ya que permite aplicar conocimientos matemáticos, técnicos y organizativos a un entorno real que el alumnado conoce y utiliza diariamente.</p>
+<p>Además, este tipo de actividades favorece el desarrollo de competencias clave en la FP Básica, como la autonomía, la resolución de problemas, el trabajo cooperativo y la responsabilidad en la ejecución de tareas.</p>
+<h4>Temporalización aproximada: 5-7 sesiones</h4>
+<p>El proyecto se desarrollará a lo largo de entre 5 y 7 sesiones de taller.</p>
+<p>Durante este tiempo el alumnado irá avanzando progresivamente en las diferentes fases del proyecto:</p>
+<ul>
+<li>Análisis del espacio y toma de medidas reales del aula-taller</li>
+<li>Elaboración de planos sencillos a escala</li>
+<li>Cálculo de superficies y materiales necesarios</li>
+<li>Búsqueda de materiales y elaboración de un presupuesto aproximado</li>
+<li>Presentación final del proyecto de reforma.</li>
+</ul>
+<p>Esta temporalización permite trabajar con calma cada fase del proceso, combinando el trabajo práctico con la reflexión sobre los cálculos y decisiones adoptadas.</p>
+<h4>Materia o materias implicadas</h4>
+<p>La materia principal implicada es Ciencias Aplicadas II, donde el alumnado trabaja contenidos relacionados con las matemáticas aplicadas y su utilización en contextos reales.</p>
+<p>A través de este proyecto se aplican contenidos como:</p>
+<ul>
+<li>cálculo de áreas y perímetros</li>
+<li>uso de escalas en planos</li>
+<li>interpretación de medidas reales</li>
+<li>estimación de materiales y costes.</li>
+</ul>
+<p>Además, el proyecto conecta con los contenidos técnicos propios del ciclo de Electricidad, ya que el alumnado debe tener en cuenta la organización del espacio de trabajo y la posible interacción con otras instalaciones presentes en el aula-taller.</p>
+<h4>Idioma: Castellano</h4>
+<p>El proyecto se desarrollará en castellano, ya que es la lengua vehicular del centro y facilita la comprensión de las explicaciones técnicas, la interpretación de planos y la elaboración del presupuesto del proyecto.</p>
+<p>El uso del castellano permite además trabajar el vocabulario técnico propio del ámbito de las reformas, los materiales de construcción y la planificación de obras, contribuyendo al desarrollo de la competencia comunicativa en contextos profesionales.</p>
+<h4>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</h4>
+<p>A lo largo de este proyecto el alumnado deberá planificar una reforma del aula-taller, centrada en el pintado de las paredes y el enlosado del suelo. Para ello trabajarán en pequeños grupos y desarrollarán distintas tareas propias de la planificación de una obra.</p>
+<p>En primer lugar, el alumnado realizará la medición real del espacio, identificando paredes, suelos, obstáculos y elementos presentes en el taller. Posteriormente elaborarán planos sencillos a escala que representen el espacio del aula.</p>
+<p>A partir de estos planos calcularán superficies, perímetros y cantidades de material necesarias, aplicando contenidos matemáticos de forma práctica. También realizarán una búsqueda de materiales en catálogos o páginas web, comparando precios y elaborando un presupuesto aproximado de la reforma.</p>
+<p>Finalmente, cada grupo presentará su propuesta de reforma explicando los cálculos realizados, los materiales seleccionados y el coste estimado del proyecto.</p>
+<p>Con esta actividad el alumnado desarrollará habilidades relacionadas con:</p>
+<ul style="list-style-type: circle;">
+<li>la aplicación práctica de las matemáticas</li>
+<li>la representación gráfica de espacios</li>
+<li>la búsqueda de información técnica en internet</li>
+<li>la planificación de tareas</li>
+<li>el trabajo en equipo y la resolución de problemas.<br /> </li>
+</ul>
+<h4>Justificación</h4>
+<p>Este proyecto surge de la reflexión sobre la propia práctica docente y de la necesidad de plantear actividades más prácticas y contextualizadas, que conecten directamente con el entorno profesional del alumnado de Formación Profesional Básica.</p>
+<p>En muchos casos, los contenidos matemáticos o técnicos se perciben como abstractos cuando se trabajan únicamente desde el libro de texto. Por ello, esta propuesta plantea una actividad basada en un problema real del propio entorno del alumnado, como es la planificación de una reforma del taller.</p>
+<p>Además, el proyecto incorpora el uso de herramientas digitales para buscar materiales y precios, fomentando la autonomía del alumnado y el desarrollo de su competencia digital.</p>
+<p>De esta manera, la actividad transforma los contenidos teóricos en una experiencia de aprendizaje significativa, en la que el alumnado puede comprender la utilidad real de los conocimientos adquiridos y desarrollar habilidades propias del ámbito profesional.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<figure class=\"exe-figure exe-image license-CC0\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_lkkjy4lkkjy4lkkj.png\" alt=\"\" title=\"Reforma aula taller\" width=\"803\" height=\"438\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\n<figcaption class=\"figcaption\"><span class=\"author\">                             Imagen generada con inteligencia artificial. Gemini / Nanobanana. Uso educativo</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)<br /><br /></span></span></figcaption>\n</figure>\n<h4 class=\"exe-figure exe-image license-CC0\" style=\"width: 1408px;\">Centro de interés o temática</h4>\n<p>El proyecto se centra en la planificación y simulación de una reforma real del aula-taller, concretamente el pintado de paredes y el enlosado del suelo. A través de esta propuesta el alumnado se enfrenta a una situación práctica que conecta directamente con el entorno profesional de los oficios técnicos.</p>\n<p>El centro de interés consiste en analizar, medir y planificar una intervención real en el espacio de trabajo, lo que permite comprender cómo se organizan las reformas en el ámbito profesional y cómo interactúan distintos gremios como electricistas, albañiles o pintores.</p>\n<p>De este modo, el alumnado aprende a aplicar conocimientos matemáticos, técnicos y digitales en una situación cercana a la realidad laboral, desarrollando habilidades de planificación, resolución de problemas y trabajo en equipo.</p>\n<h4>Nivel al que va dirigido: 2º FP Grado Básico (Electricidad)</h4>\n<p>Esta Situación de Aprendizaje está dirigida al alumnado de 2º curso de Formación Profesional de Grado Básico en Electricidad.</p>\n<p>En esta etapa educativa el alumnado necesita trabajar mediante situaciones prácticas y contextualizadas que conecten el aprendizaje con la realidad laboral. Un proyecto de reforma del propio taller resulta especialmente motivador, ya que permite aplicar conocimientos matemáticos, técnicos y organizativos a un entorno real que el alumnado conoce y utiliza diariamente.</p>\n<p>Además, este tipo de actividades favorece el desarrollo de competencias clave en la FP Básica, como la autonomía, la resolución de problemas, el trabajo cooperativo y la responsabilidad en la ejecución de tareas.</p>\n<h4>Temporalización aproximada: 5-7 sesiones</h4>\n<p>El proyecto se desarrollará a lo largo de entre 5 y 7 sesiones de taller.</p>\n<p>Durante este tiempo el alumnado irá avanzando progresivamente en las diferentes fases del proyecto:</p>\n<ul>\n<li>Análisis del espacio y toma de medidas reales del aula-taller</li>\n<li>Elaboración de planos sencillos a escala</li>\n<li>Cálculo de superficies y materiales necesarios</li>\n<li>Búsqueda de materiales y elaboración de un presupuesto aproximado</li>\n<li>Presentación final del proyecto de reforma.</li>\n</ul>\n<p>Esta temporalización permite trabajar con calma cada fase del proceso, combinando el trabajo práctico con la reflexión sobre los cálculos y decisiones adoptadas.</p>\n<h4>Materia o materias implicadas</h4>\n<p>La materia principal implicada es Ciencias Aplicadas II, donde el alumnado trabaja contenidos relacionados con las matemáticas aplicadas y su utilización en contextos reales.</p>\n<p>A través de este proyecto se aplican contenidos como:</p>\n<ul>\n<li>cálculo de áreas y perímetros</li>\n<li>uso de escalas en planos</li>\n<li>interpretación de medidas reales</li>\n<li>estimación de materiales y costes.</li>\n</ul>\n<p>Además, el proyecto conecta con los contenidos técnicos propios del ciclo de Electricidad, ya que el alumnado debe tener en cuenta la organización del espacio de trabajo y la posible interacción con otras instalaciones presentes en el aula-taller.</p>\n<h4>Idioma: Castellano</h4>\n<p>El proyecto se desarrollará en castellano, ya que es la lengua vehicular del centro y facilita la comprensión de las explicaciones técnicas, la interpretación de planos y la elaboración del presupuesto del proyecto.</p>\n<p>El uso del castellano permite además trabajar el vocabulario técnico propio del ámbito de las reformas, los materiales de construcción y la planificación de obras, contribuyendo al desarrollo de la competencia comunicativa en contextos profesionales.</p>\n<h4>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</h4>\n<p>A lo largo de este proyecto el alumnado deberá planificar una reforma del aula-taller, centrada en el pintado de las paredes y el enlosado del suelo. Para ello trabajarán en pequeños grupos y desarrollarán distintas tareas propias de la planificación de una obra.</p>\n<p>En primer lugar, el alumnado realizará la medición real del espacio, identificando paredes, suelos, obstáculos y elementos presentes en el taller. Posteriormente elaborarán planos sencillos a escala que representen el espacio del aula.</p>\n<p>A partir de estos planos calcularán superficies, perímetros y cantidades de material necesarias, aplicando contenidos matemáticos de forma práctica. También realizarán una búsqueda de materiales en catálogos o páginas web, comparando precios y elaborando un presupuesto aproximado de la reforma.</p>\n<p>Finalmente, cada grupo presentará su propuesta de reforma explicando los cálculos realizados, los materiales seleccionados y el coste estimado del proyecto.</p>\n<p>Con esta actividad el alumnado desarrollará habilidades relacionadas con:</p>\n<ul style=\"list-style-type: circle;\">\n<li>la aplicación práctica de las matemáticas</li>\n<li>la representación gráfica de espacios</li>\n<li>la búsqueda de información técnica en internet</li>\n<li>la planificación de tareas</li>\n<li>el trabajo en equipo y la resolución de problemas.<br /> </li>\n</ul>\n<h4>Justificación</h4>\n<p>Este proyecto surge de la reflexión sobre la propia práctica docente y de la necesidad de plantear actividades más prácticas y contextualizadas, que conecten directamente con el entorno profesional del alumnado de Formación Profesional Básica.</p>\n<p>En muchos casos, los contenidos matemáticos o técnicos se perciben como abstractos cuando se trabajan únicamente desde el libro de texto. Por ello, esta propuesta plantea una actividad basada en un problema real del propio entorno del alumnado, como es la planificación de una reforma del taller.</p>\n<p>Además, el proyecto incorpora el uso de herramientas digitales para buscar materiales y precios, fomentando la autonomía del alumnado y el desarrollo de su competencia digital.</p>\n<p>De esta manera, la actividad transforma los contenidos teóricos en una experiencia de aprendizaje significativa, en la que el alumnado puede comprender la utilidad real de los conocimientos adquiridos y desarrollar habilidades propias del ámbito profesional.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1q9o-bw71wnpf9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Consejos sobre seguridad y licencias</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consejos sobre seguridad y licencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y licencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Consejos sobre seguridad y licencias</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1q9o-bw71wnpf9</odePageId>
+      <odeBlockId>block-mnq96ewa-5p0vahf84</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1q9o-bw71wnpf9</odePageId>
+          <odeBlockId>block-mnq96ewa-5p0vahf84</odeBlockId>
+          <odeIdeviceId>idevice-mnq96ewa-kew6q65av</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Antes de ponernos manos a la obra con el trabajo que vamos a realizar, quiero que nos detengamos un momento en algo fundamental.</p>
+<p>Como bien sabéis, para este proyecto vamos a trabajar en red, utilizando nuestras cuentas corporativas y buscando recursos en la nube. Pero, ¿de qué sirve ser un experto con las herramientas digitales si dejamos la puerta abierta a los problemas? En el entorno profesional, la seguridad y la ética no son un extra, son la base de vuestro trabajo. He preparado este cartel que resume los 5 pilares básicos que debemos tener grabados a fuego mientras trabajamos:</p>
+<p>Echad un vistazo rápido a los puntos del cartel. "Protegerse en línea es protegerse en la realidad". ¡Vamos a empezar con buen pie y de forma segura!</p>
+<figure class="exe-figure exe-image position-center license-CC-BY" style="width: 1587px; text-align: center;"><img src="{{context_path}}/content/resources/Poster_de_proteger_la_seguridad_en_linea_Ilustrativo_Amarillo.png" alt="Consejos de seguridad" title="Consejos de seguridad" width="1587" height="2245" style="vertical-align: text-top;" />
+<figcaption class="figcaption"><span class="author">Manuel Gallardo García</span>. <span class="title"><em>Seguridad y licencias</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Antes de ponernos manos a la obra con el trabajo que vamos a realizar, quiero que nos detengamos un momento en algo fundamental.</p>\n<p>Como bien sabéis, para este proyecto vamos a trabajar en red, utilizando nuestras cuentas corporativas y buscando recursos en la nube. Pero, ¿de qué sirve ser un experto con las herramientas digitales si dejamos la puerta abierta a los problemas? En el entorno profesional, la seguridad y la ética no son un extra, son la base de vuestro trabajo. He preparado este cartel que resume los 5 pilares básicos que debemos tener grabados a fuego mientras trabajamos:</p>\n<p>Echad un vistazo rápido a los puntos del cartel. \"Protegerse en línea es protegerse en la realidad\". ¡Vamos a empezar con buen pie y de forma segura!</p>\n<figure class=\"exe-figure exe-image position-center license-CC-BY\" style=\"width: 1587px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Poster_de_proteger_la_seguridad_en_linea_Ilustrativo_Amarillo.png\" alt=\"Consejos de seguridad\" title=\"Consejos de seguridad\" width=\"1587\" height=\"2245\" style=\"vertical-align: text-top;\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Manuel Gallardo García</span>. <span class=\"title\"><em>Seguridad y licencias</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1q9p-7hg1t7u8u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1q9p-7hg1t7u8u</odePageId>
+      <odeBlockId>block-1775736801936-r116ka28c</odeBlockId>
+      <blockName>Recursos digitales para nuestro proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1q9p-7hg1t7u8u</odePageId>
+          <odeBlockId>block-1775736801936-r116ka28c</odeBlockId>
+          <odeIdeviceId>idevice-1775736801926-nhsm3usjs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;">En el siguiente padlet encontrarás fácil acceso a las distintas herramientas digitales que utilizaremos para elaborar nuestro proyecto.<iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/tjqtn9xjbkjrzmls" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775736801926-nhsm3usjs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\">En el siguiente padlet encontrarás fácil acceso a las distintas herramientas digitales que utilizaremos para elaborar nuestro proyecto.<iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/tjqtn9xjbkjrzmls\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo0h1q9p-7hg1t7u8u</odePageId>
+      <odeBlockId>block-1775735853747-3jsme0gft</odeBlockId>
+      <blockName>Recuros digitales generales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1q9p-7hg1t7u8u</odePageId>
+          <odeBlockId>block-1775735853747-3jsme0gft</odeBlockId>
+          <odeIdeviceId>idevice-1775735853731-2k8y71bmq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace puedes acceder a mi webmix con múltiples herramientas que espero que te resulten útiles:</p>
+<p><a href="https://www.symbaloo.com/shared/AAAABhuQgpkAA42ADtAjHg==" title="">Recursos digitales para el trabajo en el aula</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775735853731-2k8y71bmq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace puedes acceder a mi webmix con múltiples herramientas que espero que te resulten útiles:</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABhuQgpkAA42ADtAjHg==\" title=\"\">Recursos digitales para el trabajo en el aula</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1q9r-49uqxvrn2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tareas y criterios de evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1q9r-49uqxvrn2</odePageId>
+      <odeBlockId>block-1775748486054-phosxgvtx</odeBlockId>
+      <blockName>Asociamos tareas a criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1q9r-49uqxvrn2</odePageId>
+          <odeBlockId>block-1775748486054-phosxgvtx</odeBlockId>
+          <odeIdeviceId>idevice-1775748486043-7v92ttpwg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de organizar y desarrollar las actividades de esta situación de aprendizaje, se establece una relación entre lo que el alumnado va a hacer y lo que se pretende evaluar. Esta conexión permite dar sentido al proceso de enseñanza-aprendizaje, garantizando que cada tarea contribuya de forma directa al desarrollo de las competencias y criterios establecidos en el currículo.</p>
+<p>La siguiente tabla tiene como objetivo facilitar esta planificación, mostrando de manera estructurada cómo cada actividad se vincula con los criterios de evaluación, el tipo de agrupamiento, el tiempo estimado y las herramientas que se utilizarán. De este modo, no solo se asegura la coherencia didáctica, sino que también se favorece una evaluación más objetiva, transparente y alineada con los aprendizajes esperados.</p>
+<p><embed width="640" height="480" src="{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf" type="application/pdf"></embed></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775748486043-7v92ttpwg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de organizar y desarrollar las actividades de esta situación de aprendizaje, se establece una relación entre lo que el alumnado va a hacer y lo que se pretende evaluar. Esta conexión permite dar sentido al proceso de enseñanza-aprendizaje, garantizando que cada tarea contribuya de forma directa al desarrollo de las competencias y criterios establecidos en el currículo.</p>\n<p>La siguiente tabla tiene como objetivo facilitar esta planificación, mostrando de manera estructurada cómo cada actividad se vincula con los criterios de evaluación, el tipo de agrupamiento, el tiempo estimado y las herramientas que se utilizarán. De este modo, no solo se asegura la coherencia didáctica, sino que también se favorece una evaluación más objetiva, transparente y alineada con los aprendizajes esperados.</p>\n<p><embed width=\"640\" height=\"480\" src=\"{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf\" type=\"application/pdf\"></embed></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1q9s-fq9s87yht</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tareas</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Comenzamos nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1q9s-fq9s87yht</odePageId>
+      <odeBlockId>block-1775738021322-ndfojm2mh</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1q9s-fq9s87yht</odePageId>
+          <odeBlockId>block-1775738021322-ndfojm2mh</odeBlockId>
+          <odeIdeviceId>idevice-1775738021310-mqy0quzli</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Comenzamos nuestro proyecto observando la línea temporal que nos muestra las tareas que tendremos que ir haciendo para la realización del mismo:</p>
+<p style="text-align: center;"><embed width="630" height="480" src="{{context_path}}/content/resources/Gráfico Línea temporal Fechas Iconos Corporativo Profesional Colorido Multicolor.pdf" type="application/pdf"></embed></p>
+<p>A continuación agruparemos algunas de estas tareas que se podrán realizar en una misma sesión de trabajo. Es aconsejable que consultéis el apartado de <strong>"Evaluación del proyecto" </strong>antes y durante la realización del mismo, en este apartado encontraréis una <strong>lista de cotejo</strong> y una <strong>rúbrica</strong> que os servirán de guía en todo el proceso.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775738021310-mqy0quzli","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Comenzamos nuestro proyecto observando la línea temporal que nos muestra las tareas que tendremos que ir haciendo para la realización del mismo:</p>\n<p style=\"text-align: center;\"><embed width=\"630\" height=\"480\" src=\"{{context_path}}/content/resources/Gráfico Línea temporal Fechas Iconos Corporativo Profesional Colorido Multicolor.pdf\" type=\"application/pdf\"></embed></p>\n<p>A continuación agruparemos algunas de estas tareas que se podrán realizar en una misma sesión de trabajo. Es aconsejable que consultéis el apartado de <strong>\"Evaluación del proyecto\" </strong>antes y durante la realización del mismo, en este apartado encontraréis una <strong>lista de cotejo</strong> y una <strong>rúbrica</strong> que os servirán de guía en todo el proceso.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1q9u-ifekgc8de</odePageId>
+  <odeParentPageId>page-mo0h1q9s-fq9s87yht</odeParentPageId>
+  <pageName>Tarea 1: Replanteo y mediciones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 1: Replanteo y mediciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 1: Replanteo y mediciones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1q9u-ifekgc8de</odePageId>
+      <odeBlockId>block-1775842379968-vow4uk3zx</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1q9u-ifekgc8de</odePageId>
+          <odeBlockId>block-1775842379968-vow4uk3zx</odeBlockId>
+          <odeIdeviceId>idevice-1775842379961-5fiocf1hq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 445px;"><img src="{{context_path}}/content/resources/s1.png" title="Replanteo y mediciones" width="445" height="309" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Imagen generada con inteligencia artificial. Replanteo y mediciones (Gemini / Nanobanana. Uso educativo.)</em></span></figcaption>
+</figure>
+<p>¿Qué vamos a hacer?<br />En esta actividad vais a dar vuestros primeros pasos como profesionales de la reforma. Vuestra misión será realizar el levantamiento técnico de una estancia real. Aprenderéis que antes de coger la brocha o el cemento, un buen oficial necesita "leer" el espacio, plasmarlo en papel y medir con precisión milimétrica.</p>
+<p>Organización<br />Tiempo: 30 minutos.<br />Trabajo: En parejas de "Oficial" y "Ayudante".<br />Lugar: Taller o aula específica a medir.</p>
+<p>Paso a paso<br />1. El Croquis (El mapa del tesoro)<br />Antes de sacar la cinta métrica, dibujad a mano alzada la forma de la habitación en vuestro cuaderno:</p>
+<ul>
+<li>Dibujad las paredes con líneas claras.</li>
+<li>Situad dónde están las puertas y las ventanas (¡Cuidado! Marcarlas con una "X" para saber que ahí no se pinta ni se pone azulejo).</li>
+</ul>
+<p>2. La Medición (Mano a mano)<br />Aquí entra en juego el equipo:</p>
+<p>El Ayudante sujeta el extremo del flexómetro (cinta métrica).<br />El Oficial tensa la cinta, realiza la lectura y anota la medida.<br />¿Qué medimos? Largos, anchos, alturas y los huecos (puertas/ventanas).<br /></p>
+<p>3. Registro de Datos<br />Anotad cada medida sobre el dibujo del aula que habéis realizado previamente. Aseguraos de usar la misma unidad (siempre en centímetros o siempre en metros).</p>
+<p>4. Salto a lo Digital<br />Pasaremos las anotaciones a una Hoja de Cálculo de Google y calcularemos con su ayuda los metros cuadrados de pintura y de suelo que necesitamos cubrir.</p>
+<p><br />¿Qué vamos a aprender?<br />A representar espacios reales en un dibujo técnico básico.<br />A usar herramientas de medición profesional con precisión.<br />A distinguir entre superficie útil y elementos que no computan (huecos).<br />A trabajar de forma coordinada en el sector de la construcción.</p>
+<p>Trabajo en equipo<br />Os dividiréis los roles, pero rotaréis a mitad de la tarea:</p>
+<p>Oficial: Responsable de la lectura de la cinta y la calidad del croquis.<br />Ayudante: Responsable de la fijación de la cinta y de asegurar que no haya obstáculos.<br />Ambos debéis verificar que la medida anotada es la correcta.</p>
+<p>Material que vais a usar<br />Cinta métrica (Flexómetro) de al menos 5m.<br />Cuaderno de dibujo o folios en blanco.<br />Lápiz y goma (¡importante para rectificar el croquis!).<br />Dispositivo (Tablet u ordenador) con Google Sheets o calculadora.</p>
+<p>Si surge algún problema…<br />¿La cinta se dobla? El ayudante debe mantenerla tensa y pegada al suelo/pared.<br />¿La habitación no es cuadrada? Dividid el espacio en rectángulos más pequeños.<br />¿Dudas con los huecos? Recordad: "Lo que es aire o cristal, no se suma al total de pintura".</p>
+<p style="text-align: center;">Si te quedan dudas sobre cómo abordar esta tarea puedes consultar el siguiente vídeo:</p>
+<p style="text-align: center;"><br /></p>
+<figure class="exe-figure exe-media position-center license-CC0" style="width: 560px; text-align: center;" id="fig_uno8o7ca9"><iframe width="560" height="314" src="https://www.youtube.com/embed/r27uXQtQzZ8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/watch?v=r27uXQtQzZ8" target="_blank" class="author" rel="noopener">Mirian Mimesis</a>. <span class="title"><em>Cómo medir una habitación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775842379961-5fiocf1hq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 445px;\"><img src=\"{{context_path}}/content/resources/s1.png\" title=\"Replanteo y mediciones\" width=\"445\" height=\"309\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen generada con inteligencia artificial. Replanteo y mediciones (Gemini / Nanobanana. Uso educativo.)</em></span></figcaption>\n</figure>\n<p>¿Qué vamos a hacer?<br />En esta actividad vais a dar vuestros primeros pasos como profesionales de la reforma. Vuestra misión será realizar el levantamiento técnico de una estancia real. Aprenderéis que antes de coger la brocha o el cemento, un buen oficial necesita \"leer\" el espacio, plasmarlo en papel y medir con precisión milimétrica.</p>\n<p>Organización<br />Tiempo: 30 minutos.<br />Trabajo: En parejas de \"Oficial\" y \"Ayudante\".<br />Lugar: Taller o aula específica a medir.</p>\n<p>Paso a paso<br />1. El Croquis (El mapa del tesoro)<br />Antes de sacar la cinta métrica, dibujad a mano alzada la forma de la habitación en vuestro cuaderno:</p>\n<ul>\n<li>Dibujad las paredes con líneas claras.</li>\n<li>Situad dónde están las puertas y las ventanas (¡Cuidado! Marcarlas con una \"X\" para saber que ahí no se pinta ni se pone azulejo).</li>\n</ul>\n<p>2. La Medición (Mano a mano)<br />Aquí entra en juego el equipo:</p>\n<p>El Ayudante sujeta el extremo del flexómetro (cinta métrica).<br />El Oficial tensa la cinta, realiza la lectura y anota la medida.<br />¿Qué medimos? Largos, anchos, alturas y los huecos (puertas/ventanas).<br /></p>\n<p>3. Registro de Datos<br />Anotad cada medida sobre el dibujo del aula que habéis realizado previamente. Aseguraos de usar la misma unidad (siempre en centímetros o siempre en metros).</p>\n<p>4. Salto a lo Digital<br />Pasaremos las anotaciones a una Hoja de Cálculo de Google y calcularemos con su ayuda los metros cuadrados de pintura y de suelo que necesitamos cubrir.</p>\n<p><br />¿Qué vamos a aprender?<br />A representar espacios reales en un dibujo técnico básico.<br />A usar herramientas de medición profesional con precisión.<br />A distinguir entre superficie útil y elementos que no computan (huecos).<br />A trabajar de forma coordinada en el sector de la construcción.</p>\n<p>Trabajo en equipo<br />Os dividiréis los roles, pero rotaréis a mitad de la tarea:</p>\n<p>Oficial: Responsable de la lectura de la cinta y la calidad del croquis.<br />Ayudante: Responsable de la fijación de la cinta y de asegurar que no haya obstáculos.<br />Ambos debéis verificar que la medida anotada es la correcta.</p>\n<p>Material que vais a usar<br />Cinta métrica (Flexómetro) de al menos 5m.<br />Cuaderno de dibujo o folios en blanco.<br />Lápiz y goma (¡importante para rectificar el croquis!).<br />Dispositivo (Tablet u ordenador) con Google Sheets o calculadora.</p>\n<p>Si surge algún problema…<br />¿La cinta se dobla? El ayudante debe mantenerla tensa y pegada al suelo/pared.<br />¿La habitación no es cuadrada? Dividid el espacio en rectángulos más pequeños.<br />¿Dudas con los huecos? Recordad: \"Lo que es aire o cristal, no se suma al total de pintura\".</p>\n<p style=\"text-align: center;\">Si te quedan dudas sobre cómo abordar esta tarea puedes consultar el siguiente vídeo:</p>\n<p style=\"text-align: center;\"><br /></p>\n<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 560px; text-align: center;\" id=\"fig_uno8o7ca9\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/r27uXQtQzZ8\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/watch?v=r27uXQtQzZ8\" target=\"_blank\" class=\"author\" rel=\"noopener\">Mirian Mimesis</a>. <span class=\"title\"><em>Cómo medir una habitación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1q9v-8991vbict</odePageId>
+  <odeParentPageId>page-mo0h1q9s-fq9s87yht</odeParentPageId>
+  <pageName>Tarea 2: Del Papel al Plano (El Dibujo Técnico)</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2: Del Papel al Plano (El Dibujo Técnico)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2: Del Papel al Plano (El Dibujo Técnico)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 2: Del Papel al Plano (El Dibujo Técnico)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1q9v-8991vbict</odePageId>
+      <odeBlockId>block-1775905089624-u5fugsh5d</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1q9v-8991vbict</odePageId>
+          <odeBlockId>block-1775905089624-u5fugsh5d</odeBlockId>
+          <odeIdeviceId>idevice-1775905089624-o58rgb41f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 317px;"><img src="{{context_path}}/content/resources/T2_Del papel al plano.png" title="Del papel al plano" width="317" height="313" alt="Del papel al plano" />
+<figcaption class="figcaption"><span class="title"><em>Imagen generada con inteligencia artificial. Del papel al plano (Gemini / Nanobanana. Uso educativo.)</em></span></figcaption>
+</figure>
+<p><br />¿Qué vamos a hacer?<br />Tras haber "leído" el espacio en la Tarea 1, ahora toca profesionalizar vuestro trabajo. Vuestra misión es convertir ese boceto rápido en un plano técnico real. Aprenderéis a usar la escala, que es el "idioma universal" de la construcción, para que cualquier oficial pueda entender cuánto mide una pared sin necesidad de estar allí, simplemente usando su escalímetro sobre vuestro papel.</p>
+<p>Organización<br />Tiempo: 1 h 30 min (requiere más precisión y calma).<br />Trabajo: Individual (cada uno hace su plano), pero consultando con su pareja de la Tarea 1.<br />Lugar: Aula de dibujo o taller.<br />Paso a paso<br />1. La Elección de la Escala (Encajando el puzle)</p>
+<p>No podemos dibujar el aula a tamaño real, ¡necesitaríamos un papel gigante! Por eso vamos a reducirla de forma proporcional:</p>
+<p>Usaremos Escala 1:50 (donde 2 cm en el papel son 1 metro real) o Escala 1:20 (donde 5 cm son 1 metro).<br />Calculad con la calculadora:  Medida Real/ Escala = Medida en el papel.<br /></p>
+<p>2. El Trazado de Precisión</p>
+<p>Con el papel milimetrado como guía, empezamos a "levantar" las paredes:</p>
+<p>Usad la escuadra y el cartabón para que todas las esquinas sean ángulos rectos perfectos (90°).<br />Empezad por una esquina y dibujad primero el perímetro exterior con lápiz fino (2H).<br /></p>
+<p>3. Puertas y Ventanas (Los huecos)</p>
+<p>Ahora situad los elementos que marcasteis con una "X" en el croquis:</p>
+<p>Respetad la distancia exacta desde la esquina hasta donde empieza el marco.<br />Dibujad el giro de la puerta para saber hacia dónde abre (¡fundamental para no chocar con los muebles!).<br /></p>
+<p>4. Acotación y Limpieza</p>
+<p>Un plano sin números no sirve. Indicad las medidas principales (cotas) fuera del dibujo y repasad con un lápiz más oscuro (HB) las paredes definitivas.</p>
+<p>¿Qué vamos a aprender?<br />A manejar el escalímetro y las herramientas de dibujo lineal.<br />A realizar cambios de unidades y cálculos de proporcionalidad sencillos.<br />A valorar la limpieza y el orden en la documentación técnica.<br />A interpretar cómo se representa la realidad de forma plana y técnica.<br />Herramientas de Precisión<br />Aunque el trabajo es individual, os ayudaréis mutuamente a verificar los cálculos:</p>
+<p>Calculista: Verifica que los cm del papel corresponden a los metros del aula.<br />Delineante: Se asegura de que las líneas sean rectas y los grosores adecuados.<br /></p>
+<p>Material que vais a usar<br />Papel milimetrado (formato A4 o A3).<br />Escalímetro (o regla si hacéis el cálculo manual).<br />Juego de escuadra y cartabón.<br />Lápiz 2H (para guías) y HB (para acabado), goma de borrar.<br />Calculadora.<br /></p>
+<p>Si surge algún problema…<br />¿No me cabe en el papel? Estás usando una escala demasiado grande (como 1:20). Prueba con la 1:50.<br />¿Las líneas no salen rectas? Asegúrate de apoyar bien la escuadra sobre el borde del papel o sobre el cartabón. ¡No dibujes "a ojo"!<br />¿Me he equivocado con una medida? Para eso usamos el lápiz fino al principio. Borra suavemente para no romper el papel milimetrado.<br />Consejo de Pro: En un plano profesional, la limpieza es tu firma. Lávate bien las manos antes de empezar para no dejar huellas de grafito en el papel.<br /> <br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775904164708-j9w8vxho4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 317px;\"><img src=\"{{context_path}}/content/resources/T2_Del papel al plano.png\" title=\"Del papel al plano\" width=\"317\" height=\"313\" alt=\"Del papel al plano\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen generada con inteligencia artificial. Del papel al plano (Gemini / Nanobanana. Uso educativo.)</em></span></figcaption>\n</figure>\n<p><br />¿Qué vamos a hacer?<br />Tras haber \"leído\" el espacio en la Tarea 1, ahora toca profesionalizar vuestro trabajo. Vuestra misión es convertir ese boceto rápido en un plano técnico real. Aprenderéis a usar la escala, que es el \"idioma universal\" de la construcción, para que cualquier oficial pueda entender cuánto mide una pared sin necesidad de estar allí, simplemente usando su escalímetro sobre vuestro papel.</p>\n<p>Organización<br />Tiempo: 1 h 30 min (requiere más precisión y calma).<br />Trabajo: Individual (cada uno hace su plano), pero consultando con su pareja de la Tarea 1.<br />Lugar: Aula de dibujo o taller.<br />Paso a paso<br />1. La Elección de la Escala (Encajando el puzle)</p>\n<p>No podemos dibujar el aula a tamaño real, ¡necesitaríamos un papel gigante! Por eso vamos a reducirla de forma proporcional:</p>\n<p>Usaremos Escala 1:50 (donde 2 cm en el papel son 1 metro real) o Escala 1:20 (donde 5 cm son 1 metro).<br />Calculad con la calculadora:  Medida Real/ Escala = Medida en el papel.<br /></p>\n<p>2. El Trazado de Precisión</p>\n<p>Con el papel milimetrado como guía, empezamos a \"levantar\" las paredes:</p>\n<p>Usad la escuadra y el cartabón para que todas las esquinas sean ángulos rectos perfectos (90°).<br />Empezad por una esquina y dibujad primero el perímetro exterior con lápiz fino (2H).<br /></p>\n<p>3. Puertas y Ventanas (Los huecos)</p>\n<p>Ahora situad los elementos que marcasteis con una \"X\" en el croquis:</p>\n<p>Respetad la distancia exacta desde la esquina hasta donde empieza el marco.<br />Dibujad el giro de la puerta para saber hacia dónde abre (¡fundamental para no chocar con los muebles!).<br /></p>\n<p>4. Acotación y Limpieza</p>\n<p>Un plano sin números no sirve. Indicad las medidas principales (cotas) fuera del dibujo y repasad con un lápiz más oscuro (HB) las paredes definitivas.</p>\n<p>¿Qué vamos a aprender?<br />A manejar el escalímetro y las herramientas de dibujo lineal.<br />A realizar cambios de unidades y cálculos de proporcionalidad sencillos.<br />A valorar la limpieza y el orden en la documentación técnica.<br />A interpretar cómo se representa la realidad de forma plana y técnica.<br />Herramientas de Precisión<br />Aunque el trabajo es individual, os ayudaréis mutuamente a verificar los cálculos:</p>\n<p>Calculista: Verifica que los cm del papel corresponden a los metros del aula.<br />Delineante: Se asegura de que las líneas sean rectas y los grosores adecuados.<br /></p>\n<p>Material que vais a usar<br />Papel milimetrado (formato A4 o A3).<br />Escalímetro (o regla si hacéis el cálculo manual).<br />Juego de escuadra y cartabón.<br />Lápiz 2H (para guías) y HB (para acabado), goma de borrar.<br />Calculadora.<br /></p>\n<p>Si surge algún problema…<br />¿No me cabe en el papel? Estás usando una escala demasiado grande (como 1:20). Prueba con la 1:50.<br />¿Las líneas no salen rectas? Asegúrate de apoyar bien la escuadra sobre el borde del papel o sobre el cartabón. ¡No dibujes \"a ojo\"!<br />¿Me he equivocado con una medida? Para eso usamos el lápiz fino al principio. Borra suavemente para no romper el papel milimetrado.<br />Consejo de Pro: En un plano profesional, la limpieza es tu firma. Lávate bien las manos antes de empezar para no dejar huellas de grafito en el papel.<br /> <br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1q9x-clmguju3d</odePageId>
+  <odeParentPageId>page-mo0h1q9s-fq9s87yht</odeParentPageId>
+  <pageName>Tarea 3: Digitalización del plano (Planta técnica en Floorplanner)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 3: Digitalización del plano (Planta técnica en Floorplanner)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 3: Digitalización del plano (Planta técnica en Floorplanner)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 3: Digitalización del plano (Planta técnica en Floorplanner)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1q9x-clmguju3d</odePageId>
+      <odeBlockId>block-1776235482724-1zf4j239m</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1q9x-clmguju3d</odePageId>
+          <odeBlockId>block-1776235482724-1zf4j239m</odeBlockId>
+          <odeIdeviceId>idevice-1776235482707-dkpzudj3y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 256px;"><img src="{{context_path}}/content/resources/s3.png" title="Digitalización del plano" width="256" height="308" alt="Digitalización del plano" />
+<figcaption class="figcaption"><span class="title"><em>Imagen generada con inteligencia artificial. Digitalización del plano (Gemini / Nanobanana. Uso educativo.)</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><br /></p>
+<p>¿Qué vamos a hacer?<br />Vamos a dar el salto del papel a la pantalla. Tu misión es dibujar la planta del aula taller utilizando la versión gratuita de Floorplanner. El objetivo es obtener un plano digital limpio y exacto que nos diga automáticamente cuántos metros cuadrados tiene el suelo y cuánto miden las paredes. ¡Sin errores de cálculo!</p>
+<p>Organización<br />Tiempo: 1 h.<br />Trabajo: Individual.<br />Lugar: Aula de informática o con dispositivos móviles/tablets.<br /></p>
+<p>Paso a paso<br />1. Preparación del Lienzo</p>
+<p>Entra en Floorplanner y crea un nuevo proyecto. Asegúrate de que las unidades estén en Metros:</p>
+<p>No vamos a usar plantillas. Empezaremos desde cero ("Empty plan").<br />Ten a tu lado el papel milimetrado de la Tarea 2; es tu "guía de comandos".<br /></p>
+<p>2. Dibujo de Muros (Precisión Digital)</p>
+<p>Dibuja el contorno del aula:</p>
+<p>Usa la herramienta "Draw Walls" (Dibujar paredes).<br />Haz clic para empezar y mueve el ratón. Truco: No intentes acertar con el ratón; escribe directamente la medida exacta en el cuadro de texto que aparece abajo y pulsa Enter.<br />Fíjate en que el programa cierra el área automáticamente y le pone un color gris al suelo.<br /></p>
+<p>3. Colocación de Huecos (Puertas y Ventanas)</p>
+<p>Ve al menú de objetos (icono de la silla/martillo) y busca "Windows" y "Doors".<br />Arrastra la puerta a su lugar exacto. Haz clic sobre ella para ajustar su ancho real (por ejemplo, 0.80 m o 0.90 m).<br />Haz lo mismo con las ventanas. El programa restará automáticamente ese espacio del total de la pared.<br /></p>
+<p>4. Lectura de Datos (La "Magia" del Software)</p>
+<p>Una vez cerrado el plano, haz clic en el centro de la habitación:</p>
+<p>El programa te mostrará el Área y el Perímetro.<br />Anota estos datos en tu cuaderno y compáralos con los obtenidos con la calculadora.<br /></p>
+<p>¿Qué vamos a aprender?<br />A utilizar una herramienta profesional de dibujo de planos de forma simplificada.<br />A comprobar que las medidas del papel y las digitales coinciden.<br />A obtener datos automáticos de superficie para evitar errores humanos en el presupuesto.<br />Tu rol como Delineante Digital<br /></p>
+<p>Aunque trabajas en tu equipo, debes ser riguroso:</p>
+<p>Verificador: Compara cada muro que dibujas con tu plano de la Tarea 2. Si en el papel pone 6.40 m, en la pantalla debe poner 6.40 m.<br /></p>
+<p>Material que vais a usar<br />Portátil o Tablet.<br />Ratón (muy recomendado para trabajar con muros).<br />Plano de la Tarea 2 (imprescindible).<br />Calculadora (por si necesitas sumar algún tramo de pared).<br /></p>
+<p>Si surge algún problema…<br />¿He dibujado un muro de más? Selecciónalo y pulsa la tecla Suprimir o el icono de la papelera.<br />¿El plano me sale inclinado? Mantén pulsada la tecla Shift mientras dibujas para que los muros salgan totalmente rectos (a 90°).<br />¿No veo las medidas? Activa la opción "Show dimensions" en el menú de visualización (icono de la rueda dentada).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776235482707-dkpzudj3y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 256px;\"><img src=\"{{context_path}}/content/resources/s3.png\" title=\"Digitalización del plano\" width=\"256\" height=\"308\" alt=\"Digitalización del plano\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen generada con inteligencia artificial. Digitalización del plano (Gemini / Nanobanana. Uso educativo.)</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><br /></p>\n<p>¿Qué vamos a hacer?<br />Vamos a dar el salto del papel a la pantalla. Tu misión es dibujar la planta del aula taller utilizando la versión gratuita de Floorplanner. El objetivo es obtener un plano digital limpio y exacto que nos diga automáticamente cuántos metros cuadrados tiene el suelo y cuánto miden las paredes. ¡Sin errores de cálculo!</p>\n<p>Organización<br />Tiempo: 1 h.<br />Trabajo: Individual.<br />Lugar: Aula de informática o con dispositivos móviles/tablets.<br /></p>\n<p>Paso a paso<br />1. Preparación del Lienzo</p>\n<p>Entra en Floorplanner y crea un nuevo proyecto. Asegúrate de que las unidades estén en Metros:</p>\n<p>No vamos a usar plantillas. Empezaremos desde cero (\"Empty plan\").<br />Ten a tu lado el papel milimetrado de la Tarea 2; es tu \"guía de comandos\".<br /></p>\n<p>2. Dibujo de Muros (Precisión Digital)</p>\n<p>Dibuja el contorno del aula:</p>\n<p>Usa la herramienta \"Draw Walls\" (Dibujar paredes).<br />Haz clic para empezar y mueve el ratón. Truco: No intentes acertar con el ratón; escribe directamente la medida exacta en el cuadro de texto que aparece abajo y pulsa Enter.<br />Fíjate en que el programa cierra el área automáticamente y le pone un color gris al suelo.<br /></p>\n<p>3. Colocación de Huecos (Puertas y Ventanas)</p>\n<p>Ve al menú de objetos (icono de la silla/martillo) y busca \"Windows\" y \"Doors\".<br />Arrastra la puerta a su lugar exacto. Haz clic sobre ella para ajustar su ancho real (por ejemplo, 0.80 m o 0.90 m).<br />Haz lo mismo con las ventanas. El programa restará automáticamente ese espacio del total de la pared.<br /></p>\n<p>4. Lectura de Datos (La \"Magia\" del Software)</p>\n<p>Una vez cerrado el plano, haz clic en el centro de la habitación:</p>\n<p>El programa te mostrará el Área y el Perímetro.<br />Anota estos datos en tu cuaderno y compáralos con los obtenidos con la calculadora.<br /></p>\n<p>¿Qué vamos a aprender?<br />A utilizar una herramienta profesional de dibujo de planos de forma simplificada.<br />A comprobar que las medidas del papel y las digitales coinciden.<br />A obtener datos automáticos de superficie para evitar errores humanos en el presupuesto.<br />Tu rol como Delineante Digital<br /></p>\n<p>Aunque trabajas en tu equipo, debes ser riguroso:</p>\n<p>Verificador: Compara cada muro que dibujas con tu plano de la Tarea 2. Si en el papel pone 6.40 m, en la pantalla debe poner 6.40 m.<br /></p>\n<p>Material que vais a usar<br />Portátil o Tablet.<br />Ratón (muy recomendado para trabajar con muros).<br />Plano de la Tarea 2 (imprescindible).<br />Calculadora (por si necesitas sumar algún tramo de pared).<br /></p>\n<p>Si surge algún problema…<br />¿He dibujado un muro de más? Selecciónalo y pulsa la tecla Suprimir o el icono de la papelera.<br />¿El plano me sale inclinado? Mantén pulsada la tecla Shift mientras dibujas para que los muros salgan totalmente rectos (a 90°).<br />¿No veo las medidas? Activa la opción \"Show dimensions\" en el menú de visualización (icono de la rueda dentada).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1q9y-1t7ji5ul6</odePageId>
+  <odeParentPageId>page-mo0h1q9s-fq9s87yht</odeParentPageId>
+  <pageName>Tarea 4: Cálculos para compra de  materiales</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4: Cálculos para compra de  materiales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4: Cálculos para compra de  materiales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 4: Cálculos para compra de  materiales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1q9y-1t7ji5ul6</odePageId>
+      <odeBlockId>block-1776266547121-2948m4ldp</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1q9y-1t7ji5ul6</odePageId>
+          <odeBlockId>block-1776266547121-2948m4ldp</odeBlockId>
+          <odeIdeviceId>idevice-1776266547111-jyui085yr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"></p>
+<figure class="exe-figure position-center" style="width: 326px;"><img src="{{context_path}}/content/resources/s4.png" width="326" height="304" alt="Imagen generada con inteligencia artificial. Cálculo de materiales (Gemini / Nanobanana. Uso educativo.) (CC0)" />
+<figcaption class="figcaption"><span class="title"><em>Imagen generada con inteligencia artificial. Cálculo de materiales (Gemini / Nanobanana. Uso educativo.)</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: left;">¿Qué vamos a hacer?</p>
+<p>Ahora que tenemos las medidas digitales, vamos a calcular cuánta pintura y cuántas baldosas necesitamos de verdad. No basta con el área del suelo; hay que prever que las piezas se rompen o hay que cortarlas (lo que llamamos "merma").</p>
+<p>Organización</p>
+<p>Tiempo: 15 minutos.<br />Trabajo: Grupos cooperativos (4-5 personas).<br />Lugar: Aula de clase / Taller.<br /></p>
+<p>Paso a paso</p>
+<p>Cálculo de la Superficie de Paredes:<br />Suma la longitud de todas tus paredes (el Perímetro que te dio Floorplanner).<br />Multiplica ese total por la altura del aula (medida con el flexómetro).<br />Importante: Resta el área de la puerta/s y las ventanas. ¡No queremos pintar el cristal!<br /></p>
+<p>Cálculo del Suelo (Las Losetas):<br />Toma el área del suelo que te dio el programa.<br />Calcula el 10% de merma: Multiplica el área por 0.10.<br />Suma ese resultado al área total. Esa es la cantidad de material que pediremos al almacén para no quedarnos cortos.<br /></p>
+<p>¿Qué vamos a aprender?</p>
+<p>A diferenciar entre superficie bruta y superficie neta (descontando huecos).<br />A entender el concepto de merma en la construcción.<br /></p>
+<p>Vuestro rol como Capataces de Obra</p>
+<p>Calculista: Realiza las operaciones en la calculadora.<br />Secretario/a: Anota los cálculos y los resultados finales en la ficha de grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776266547111-jyui085yr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"></p>\n<figure class=\"exe-figure position-center\" style=\"width: 326px;\"><img src=\"{{context_path}}/content/resources/s4.png\" width=\"326\" height=\"304\" alt=\"Imagen generada con inteligencia artificial. Cálculo de materiales (Gemini / Nanobanana. Uso educativo.) (CC0)\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen generada con inteligencia artificial. Cálculo de materiales (Gemini / Nanobanana. Uso educativo.)</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: left;\">¿Qué vamos a hacer?</p>\n<p>Ahora que tenemos las medidas digitales, vamos a calcular cuánta pintura y cuántas baldosas necesitamos de verdad. No basta con el área del suelo; hay que prever que las piezas se rompen o hay que cortarlas (lo que llamamos \"merma\").</p>\n<p>Organización</p>\n<p>Tiempo: 15 minutos.<br />Trabajo: Grupos cooperativos (4-5 personas).<br />Lugar: Aula de clase / Taller.<br /></p>\n<p>Paso a paso</p>\n<p>Cálculo de la Superficie de Paredes:<br />Suma la longitud de todas tus paredes (el Perímetro que te dio Floorplanner).<br />Multiplica ese total por la altura del aula (medida con el flexómetro).<br />Importante: Resta el área de la puerta/s y las ventanas. ¡No queremos pintar el cristal!<br /></p>\n<p>Cálculo del Suelo (Las Losetas):<br />Toma el área del suelo que te dio el programa.<br />Calcula el 10% de merma: Multiplica el área por 0.10.<br />Suma ese resultado al área total. Esa es la cantidad de material que pediremos al almacén para no quedarnos cortos.<br /></p>\n<p>¿Qué vamos a aprender?</p>\n<p>A diferenciar entre superficie bruta y superficie neta (descontando huecos).<br />A entender el concepto de merma en la construcción.<br /></p>\n<p>Vuestro rol como Capataces de Obra</p>\n<p>Calculista: Realiza las operaciones en la calculadora.<br />Secretario/a: Anota los cálculos y los resultados finales en la ficha de grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1q9z-4lwodrzhv</odePageId>
+  <odeParentPageId>page-mo0h1q9s-fq9s87yht</odeParentPageId>
+  <pageName>Tarea 5: Suministros y precios</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5: Suministros y precios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5: Suministros y precios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 5: Suministros y precios</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1q9z-4lwodrzhv</odePageId>
+      <odeBlockId>block-1776268053295-k46umswse</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1q9z-4lwodrzhv</odePageId>
+          <odeBlockId>block-1776268053295-k46umswse</odeBlockId>
+          <odeIdeviceId>idevice-1776268053296-pwpc5kxbh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><br /></p>
+<figure class="exe-figure position-center" style="width: 400px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_39ztl539ztl539zt.png" width="400" height="286" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Imagen generada con inteligencia artificial. Suministros (Gemini / Nanobanana. Uso educativo.)</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>¿Qué vamos a hacer?</p>
+<p>¡Toca ir de compras (virtuales)! Con las cantidades de la Tarea 4, buscaremos los mejores materiales en internet. Tendréis que elegir una baldosa del catálogo que ofrece la tarea y completar los cálculos que en ella se piden y calcular cuántos botes de pintura necesitamos según lo que rinda cada uno.</p>
+<p>Organización</p>
+<p>Tiempo: 1 h y 45 minutos.<br />Trabajo: Grupos cooperativos.<br />Lugar: Aula de informática (Google Sheets).<br /></p>
+<p>Paso a paso</p>
+<p>Elección de la baldosa:<br />Completad la ficha "Muestrario de baldosas" con los datos obtenidos en las tareas anteriores y los cálculos que sean necesarios.<br />Si necesitáis refrescar vuestros conocimientos de geometría para realizar esta tarea podéis acceder a los enlaces que aparecen al final de la misma.<br /></p>
+<figure class="exe-figure exe-media position-center license-CC-BY" style="width: 600px;"><embed width="600" height="300" src="{{context_path}}/content/resources/Muestrario de bladosas.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="author">Elaboración propia/ Manuel Gallardo García</span>. <span class="title"><em>Muestrario de baldosas</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Shopping de Pintura y Cinta:<br />Buscad en la web de un centro de bricolaje.<br />Leed el "rendimiento" del bote (ejemplo: 10 m2/ litro). Dividid vuestra superficie de paredes por ese número para saber cuántos botes comprar.<br /></p>
+<p>Registro en la Nube:<br />Anotad el precio unitario y el enlace del producto en vuestra hoja de Google Sheets compartida.<br /></p>
+<p>¿Qué vamos a aprender?<br /><br />A calcular las cantidades necesarias de polígonos iguales para cubrir una superficie. <br />A resolver problemas sencillos de cálculo de áreas y perímetros<br />A usar hojas de cálculo para organizar información.</p>
+<p>Si surge algún problema…</p>
+<p>¿El bote de pintura es muy grande? Calculad cuánto os sobrará; quizás convenga comprar dos botes pequeños en lugar de uno gigante.<br /></p>
+<p>Enlaces:<br /><a href="https://www.smartick.es/blog/matematicas/geometria/calcular-perimetros/" title="">Perímetros</a><br /><a href="https://www.smartick.es/blog/matematicas/geometria/como-calcular-el-area/" title="">Áreas</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776268053296-pwpc5kxbh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 400px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_39ztl539ztl539zt.png\" width=\"400\" height=\"286\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen generada con inteligencia artificial. Suministros (Gemini / Nanobanana. Uso educativo.)</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>¿Qué vamos a hacer?</p>\n<p>¡Toca ir de compras (virtuales)! Con las cantidades de la Tarea 4, buscaremos los mejores materiales en internet. Tendréis que elegir una baldosa del catálogo que ofrece la tarea y completar los cálculos que en ella se piden y calcular cuántos botes de pintura necesitamos según lo que rinda cada uno.</p>\n<p>Organización</p>\n<p>Tiempo: 1 h y 45 minutos.<br />Trabajo: Grupos cooperativos.<br />Lugar: Aula de informática (Google Sheets).<br /></p>\n<p>Paso a paso</p>\n<p>Elección de la baldosa:<br />Completad la ficha \"Muestrario de baldosas\" con los datos obtenidos en las tareas anteriores y los cálculos que sean necesarios.<br />Si necesitáis refrescar vuestros conocimientos de geometría para realizar esta tarea podéis acceder a los enlaces que aparecen al final de la misma.<br /></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY\" style=\"width: 600px;\"><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Muestrario de bladosas.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"author\">Elaboración propia/ Manuel Gallardo García</span>. <span class=\"title\"><em>Muestrario de baldosas</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Shopping de Pintura y Cinta:<br />Buscad en la web de un centro de bricolaje.<br />Leed el \"rendimiento\" del bote (ejemplo: 10 m2/ litro). Dividid vuestra superficie de paredes por ese número para saber cuántos botes comprar.<br /></p>\n<p>Registro en la Nube:<br />Anotad el precio unitario y el enlace del producto en vuestra hoja de Google Sheets compartida.<br /></p>\n<p>¿Qué vamos a aprender?<br /><br />A calcular las cantidades necesarias de polígonos iguales para cubrir una superficie. <br />A resolver problemas sencillos de cálculo de áreas y perímetros<br />A usar hojas de cálculo para organizar información.</p>\n<p>Si surge algún problema…</p>\n<p>¿El bote de pintura es muy grande? Calculad cuánto os sobrará; quizás convenga comprar dos botes pequeños en lugar de uno gigante.<br /></p>\n<p>Enlaces:<br /><a href=\"https://www.smartick.es/blog/matematicas/geometria/calcular-perimetros/\" title=\"\">Perímetros</a><br /><a href=\"https://www.smartick.es/blog/matematicas/geometria/como-calcular-el-area/\" title=\"\">Áreas</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1qa0-1kn1sur17</odePageId>
+  <odeParentPageId>page-mo0h1q9s-fq9s87yht</odeParentPageId>
+  <pageName>Tarea 6: Factura</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6: Factura</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6: Factura</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 6: Factura</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1qa0-1kn1sur17</odePageId>
+      <odeBlockId>block-1776268063383-5klolpsue</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1qa0-1kn1sur17</odePageId>
+          <odeBlockId>block-1776268063383-5klolpsue</odeBlockId>
+          <odeIdeviceId>idevice-1776268063383-xx0iay0tl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 437px;"><img src="{{context_path}}/content/resources/s6.png" title="Factura" width="437" height="324" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Imagen generada con inteligencia artificial. Factura (Gemini / Nanobanana. Uso educativo.)</em></span></figcaption>
+</figure>
+<p>¿Qué vamos a hacer?</p>
+<p>Es el momento de la verdad. Vamos a crear una factura profesional en una hoja de cálculo. Lo mejor de esto es que, si mañana el precio de la pintura sube, solo cambiaremos un número y toda la factura se actualizará sola.</p>
+<p>Organización</p>
+<p>Tiempo: 1.5 h.<br />Trabajo: Grupos cooperativos.<br />Lugar: Aula de informática.<br /></p>
+<p>Paso a paso</p>
+<p>Configuración de la Hoja de Cálculo:<br />Cread columnas para: Concepto, Cantidad, Precio Unitario, Subtotal.<br />Usad la fórmula =(B2*C2) para que el programa calcule el coste automáticamente.<br />Impuestos (El IVA):<br />Al final de la suma, cread una casilla para el IVA (21%).<br />Fórmula: Total Sin IVA * 1.21. ¡Ese es el dinero real que saldrá del bolsillo!<br /></p>
+<p>Memoria Técnica:<br />Escribid un párrafo breve explicando qué pasos habéis seguido desde que medisteis el aula con la cinta métrica hasta hoy.<br />¿Qué vamos a aprender?</p>
+<p>A automatizar tareas con fórmulas matemáticas.<br />A aplicar impuestos reales a una factura.<br />Tu rol como Administrativo/a de Obra</p>
+<p>Revisor de Fórmulas: Asegúrate de que, al cambiar una cantidad, el total final se mueva solo.<br />Redactor: Cuida que la memoria técnica no tenga faltas y explique bien el trabajo del grupo.<br />Material que vais a usar</p>
+<p>Hoja de cálculo (Google Sheets o Excel).<br />Datos de las Tareas 4 y 5.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776268063383-xx0iay0tl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 437px;\"><img src=\"{{context_path}}/content/resources/s6.png\" title=\"Factura\" width=\"437\" height=\"324\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen generada con inteligencia artificial. Factura (Gemini / Nanobanana. Uso educativo.)</em></span></figcaption>\n</figure>\n<p>¿Qué vamos a hacer?</p>\n<p>Es el momento de la verdad. Vamos a crear una factura profesional en una hoja de cálculo. Lo mejor de esto es que, si mañana el precio de la pintura sube, solo cambiaremos un número y toda la factura se actualizará sola.</p>\n<p>Organización</p>\n<p>Tiempo: 1.5 h.<br />Trabajo: Grupos cooperativos.<br />Lugar: Aula de informática.<br /></p>\n<p>Paso a paso</p>\n<p>Configuración de la Hoja de Cálculo:<br />Cread columnas para: Concepto, Cantidad, Precio Unitario, Subtotal.<br />Usad la fórmula =(B2*C2) para que el programa calcule el coste automáticamente.<br />Impuestos (El IVA):<br />Al final de la suma, cread una casilla para el IVA (21%).<br />Fórmula: Total Sin IVA * 1.21. ¡Ese es el dinero real que saldrá del bolsillo!<br /></p>\n<p>Memoria Técnica:<br />Escribid un párrafo breve explicando qué pasos habéis seguido desde que medisteis el aula con la cinta métrica hasta hoy.<br />¿Qué vamos a aprender?</p>\n<p>A automatizar tareas con fórmulas matemáticas.<br />A aplicar impuestos reales a una factura.<br />Tu rol como Administrativo/a de Obra</p>\n<p>Revisor de Fórmulas: Asegúrate de que, al cambiar una cantidad, el total final se mueva solo.<br />Redactor: Cuida que la memoria técnica no tenga faltas y explique bien el trabajo del grupo.<br />Material que vais a usar</p>\n<p>Hoja de cálculo (Google Sheets o Excel).<br />Datos de las Tareas 4 y 5.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1qa1-6c85xtekm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1qa1-6c85xtekm</odePageId>
+      <odeBlockId>block-1776272811244-a7tmo5e57</odeBlockId>
+      <blockName>Producto Final: La licitación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1qa1-6c85xtekm</odePageId>
+          <odeBlockId>block-1776272811244-a7tmo5e57</odeBlockId>
+          <odeIdeviceId>idevice-1776272811235-z11b03f10</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<figure class="exe-figure position-center" style="width: 445px;"><img src="{{context_path}}/content/resources/s7.png" width="445" height="326" alt="" />
+<figcaption class="figcaption"><a href="Imagen generada con inteligencia artificial. Licitación (Gemini / Nanobanana. Uso educativo.)" class="title" target="_blank" rel="noopener"><em>Imagen generada con inteligencia artificial. Licitación (Gemini / Nanobanana. Uso educativo.)</em></a></figcaption>
+</figure>
+<p><br />¿Qué vamos a hacer?<br />Ha llegado el momento de la verdad. Vais a actuar como una empresa de reformas que compite por ganar el contrato de renovación del aula taller. No solo habéis medido y dibujado; ahora tenéis que convencer al "cliente" (el profesor y el resto de la clase) de que vuestro presupuesto es el más preciso y vuestra propuesta la más profesional.</p>
+<p>El objetivo es presentar vuestro Dossier Técnico completo y defender vuestras decisiones ante el grupo.</p>
+<p>Organización<br />Tiempo: 2 h (1 h para organizar el portfolio y 1 h para las presentaciones).<br />Trabajo: Equipo cooperativo.<br />Lugar: Pizarra digital con conexión a internet.<br /></p>
+<p>Paso a paso<br />1. Preparación del Portfolio Digital<br />Antes de salir a escena, debemos tener "la maleta" lista. Debes subir a Google Classroom un único archivo (o carpeta organizada) que contenga:</p>
+<p>El Plano Digital: Captura de pantalla o exportación de tu diseño en Floorplanner.<br />La hoja de cálculo de la factura.<br />La ficha "Muestrario de baldosas" con todos los cálculos realizados.<br />Las fichas de trabajo con todas las tareas realizadas.<br />Memoria de Calidades: Una breve lista explicando los materiales elegidos para la reforma.</p>
+<p><br />2. La Puesta en Escena (La Presentación)<br />Cada "empresa" tendrá 10 minutos para exponer.</p>
+<p>Seguid este orden:<br />Presentación: Quiénes sois y nombre de vuestra propuesta.<br />El Diseño: Proyecta tu plano de Floorplanner. Explica los cálculos que has tenido que realizar para la reforma sobre dicho plano.<br />Los Números: Muestra la factura final y la ficha Muestrario de baldosas con todos los cálculos realizados. Muestra los campos calculados incluidos en la factura. ¿Cuánto nos va a costar la reforma?<br /></p>
+<p>Cierre: ¿Por qué vuestro proyecto es el mejor?<br />3. Evaluación Cruzada<br />Mientras tus compañeros presentan, tú serás parte del "tribunal". Usarás una lista de cotejo rápida para valorar si los otros proyectos son realistas y claros.</p>
+<p>¿Qué vamos a aprender?<br />A comunicar ideas técnicas de forma clara y sin nervios.<br />A utilizar herramientas de presentación.<br /><br />Tu rol como Jefe de Proyecto<br />Hoy dejáis de ser alumnos para ser los responsables de vuestra empresa, cada uno de vosotros deberá intervenir para exponer una parte del proyecto. Para desempeñar bien vuestro rol durante la presentación tendréis que actuar como:</p>
+<p>Portavoz: Habla con claridad, mirando al público y no solo a la pantalla.<br />Estratega: Prepárate para las preguntas. ¿Qué pasa si el presupuesto es muy alto? ¿Por qué elegiste ese tipo de suelo?<br /></p>
+<p>Material que vais a usar<br />Pizarra digital y ordenador de aula.<br />Portfolio en Google Classroom (lista de cotejo).<br />Rúbrica de evaluación (para saber qué puntos se valoran más).<br />Puntero o ratón inalámbrico (opcional, para moverte por el plano mientras hablas).<br /></p>
+<p>Si surge algún problema…<br />¿Me he quedado en blanco? Mira tu plano; él te dirá qué contar. Habla sobre las medidas y las puertas, es lo que mejor conoces.<br />¿El archivo no carga? Ten siempre una copia en un pendrive o una captura de pantalla en el móvil como "Plan B".<br />¿Alguien pregunta algo que no sé? Sé honesto: "Es un punto que podemos revisar en el presupuesto detallado, pero nos hemos basado en la normativa estándar". ¡Salida profesional!<br /></p>
+<p>El Ganador: El proyecto que obtenga la mayor puntuación sumando la valoración de la rúbrica, la lista de cotejo y la calidad de esta presentación, será el "Adjudicatario de la Obra".</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776272811235-z11b03f10","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<figure class=\"exe-figure position-center\" style=\"width: 445px;\"><img src=\"{{context_path}}/content/resources/s7.png\" width=\"445\" height=\"326\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"Imagen generada con inteligencia artificial. Licitación (Gemini / Nanobanana. Uso educativo.)\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Imagen generada con inteligencia artificial. Licitación (Gemini / Nanobanana. Uso educativo.)</em></a></figcaption>\n</figure>\n<p><br />¿Qué vamos a hacer?<br />Ha llegado el momento de la verdad. Vais a actuar como una empresa de reformas que compite por ganar el contrato de renovación del aula taller. No solo habéis medido y dibujado; ahora tenéis que convencer al \"cliente\" (el profesor y el resto de la clase) de que vuestro presupuesto es el más preciso y vuestra propuesta la más profesional.</p>\n<p>El objetivo es presentar vuestro Dossier Técnico completo y defender vuestras decisiones ante el grupo.</p>\n<p>Organización<br />Tiempo: 2 h (1 h para organizar el portfolio y 1 h para las presentaciones).<br />Trabajo: Equipo cooperativo.<br />Lugar: Pizarra digital con conexión a internet.<br /></p>\n<p>Paso a paso<br />1. Preparación del Portfolio Digital<br />Antes de salir a escena, debemos tener \"la maleta\" lista. Debes subir a Google Classroom un único archivo (o carpeta organizada) que contenga:</p>\n<p>El Plano Digital: Captura de pantalla o exportación de tu diseño en Floorplanner.<br />La hoja de cálculo de la factura.<br />La ficha \"Muestrario de baldosas\" con todos los cálculos realizados.<br />Las fichas de trabajo con todas las tareas realizadas.<br />Memoria de Calidades: Una breve lista explicando los materiales elegidos para la reforma.</p>\n<p><br />2. La Puesta en Escena (La Presentación)<br />Cada \"empresa\" tendrá 10 minutos para exponer.</p>\n<p>Seguid este orden:<br />Presentación: Quiénes sois y nombre de vuestra propuesta.<br />El Diseño: Proyecta tu plano de Floorplanner. Explica los cálculos que has tenido que realizar para la reforma sobre dicho plano.<br />Los Números: Muestra la factura final y la ficha Muestrario de baldosas con todos los cálculos realizados. Muestra los campos calculados incluidos en la factura. ¿Cuánto nos va a costar la reforma?<br /></p>\n<p>Cierre: ¿Por qué vuestro proyecto es el mejor?<br />3. Evaluación Cruzada<br />Mientras tus compañeros presentan, tú serás parte del \"tribunal\". Usarás una lista de cotejo rápida para valorar si los otros proyectos son realistas y claros.</p>\n<p>¿Qué vamos a aprender?<br />A comunicar ideas técnicas de forma clara y sin nervios.<br />A utilizar herramientas de presentación.<br /><br />Tu rol como Jefe de Proyecto<br />Hoy dejáis de ser alumnos para ser los responsables de vuestra empresa, cada uno de vosotros deberá intervenir para exponer una parte del proyecto. Para desempeñar bien vuestro rol durante la presentación tendréis que actuar como:</p>\n<p>Portavoz: Habla con claridad, mirando al público y no solo a la pantalla.<br />Estratega: Prepárate para las preguntas. ¿Qué pasa si el presupuesto es muy alto? ¿Por qué elegiste ese tipo de suelo?<br /></p>\n<p>Material que vais a usar<br />Pizarra digital y ordenador de aula.<br />Portfolio en Google Classroom (lista de cotejo).<br />Rúbrica de evaluación (para saber qué puntos se valoran más).<br />Puntero o ratón inalámbrico (opcional, para moverte por el plano mientras hablas).<br /></p>\n<p>Si surge algún problema…<br />¿Me he quedado en blanco? Mira tu plano; él te dirá qué contar. Habla sobre las medidas y las puertas, es lo que mejor conoces.<br />¿El archivo no carga? Ten siempre una copia en un pendrive o una captura de pantalla en el móvil como \"Plan B\".<br />¿Alguien pregunta algo que no sé? Sé honesto: \"Es un punto que podemos revisar en el presupuesto detallado, pero nos hemos basado en la normativa estándar\". ¡Salida profesional!<br /></p>\n<p>El Ganador: El proyecto que obtenga la mayor puntuación sumando la valoración de la rúbrica, la lista de cotejo y la calidad de esta presentación, será el \"Adjudicatario de la Obra\".</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1qa2-4dtepvqml</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1qa2-4dtepvqml</odePageId>
+      <odeBlockId>block-1776281595864-bwr7p6fj0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1qa2-4dtepvqml</odePageId>
+          <odeBlockId>block-1776281595864-bwr7p6fj0</odeBlockId>
+          <odeIdeviceId>idevice-1776281595858-t61211a2h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la evaluación de la situación de aprendizaje (SDA) titulada "Pintamos y enlosamos nuestra clase: Proyecto de reforma integral del taller usando las matemáticas", dirigida a alumnos de 2º de Formación Profesional Grado Básico , se ha diseñado un sistema de evaluación que combina el seguimiento del proceso y la calidad del producto final.</p>
+<p>Este sistema se articula a través de dos herramientas principales que garantizan una valoración objetiva y estructurada:</p>
+<p>1. Lista de Cotejo (Control de Elementos)<br />Se utiliza como una primera fase de control. Su función es verificar de forma rápida (SÍ/NO) si el alumnado ha incluido todos los componentes obligatorios en su producto final, el Porfolio del Proyecto.<br />Actúa como un filtro: si falta un elemento crítico (como el presupuesto), no se procede a la evaluación de calidad.<br />Fomenta la organización y la responsabilidad en la entrega de documentos técnicos.<br /> <br />2. Rúbrica de Desempeño (Calidad y Competencia)<br />Una vez confirmado que el porfolio está completo, se aplica la Rúbrica de Evaluación para determinar el nivel de logro alcanzado en cada tarea.<br />Niveles de Logro: Se establecen cuatro niveles: Insuficiente (1), En Proceso (2), Competente (3) y Excelente/Profesional (4).<br />Criterios Evaluados: Se valoran aspectos técnicos y matemáticos como la precisión en la medición, la elaboración de planos a escala, el cálculo de materiales y la confección de la factura con IVA.<br /><br />Este enfoque dual permite no solo asignar una calificación, sino también identificar dificultades específicas en el alumnado y aplicar medidas de refuerzo de manera inmediata.</p>
+<p style="text-align: center;"><embed width="640" height="480" src="{{context_path}}/content/resources/Instrumentos evaluación.pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776281595858-t61211a2h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la evaluación de la situación de aprendizaje (SDA) titulada \"Pintamos y enlosamos nuestra clase: Proyecto de reforma integral del taller usando las matemáticas\", dirigida a alumnos de 2º de Formación Profesional Grado Básico , se ha diseñado un sistema de evaluación que combina el seguimiento del proceso y la calidad del producto final.</p>\n<p>Este sistema se articula a través de dos herramientas principales que garantizan una valoración objetiva y estructurada:</p>\n<p>1. Lista de Cotejo (Control de Elementos)<br />Se utiliza como una primera fase de control. Su función es verificar de forma rápida (SÍ/NO) si el alumnado ha incluido todos los componentes obligatorios en su producto final, el Porfolio del Proyecto.<br />Actúa como un filtro: si falta un elemento crítico (como el presupuesto), no se procede a la evaluación de calidad.<br />Fomenta la organización y la responsabilidad en la entrega de documentos técnicos.<br /> <br />2. Rúbrica de Desempeño (Calidad y Competencia)<br />Una vez confirmado que el porfolio está completo, se aplica la Rúbrica de Evaluación para determinar el nivel de logro alcanzado en cada tarea.<br />Niveles de Logro: Se establecen cuatro niveles: Insuficiente (1), En Proceso (2), Competente (3) y Excelente/Profesional (4).<br />Criterios Evaluados: Se valoran aspectos técnicos y matemáticos como la precisión en la medición, la elaboración de planos a escala, el cálculo de materiales y la confección de la factura con IVA.<br /><br />Este enfoque dual permite no solo asignar una calificación, sino también identificar dificultades específicas en el alumnado y aplicar medidas de refuerzo de manera inmediata.</p>\n<p style=\"text-align: center;\"><embed width=\"640\" height=\"480\" src=\"{{context_path}}/content/resources/Instrumentos evaluación.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0h1qa3-9v21vq67m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0h1qa3-9v21vq67m</odePageId>
+      <odeBlockId>block-1775906980777-d3g36voob</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0h1qa3-9v21vq67m</odePageId>
+          <odeBlockId>block-1775906980777-d3g36voob</odeBlockId>
+          <odeIdeviceId>idevice-1775906980763-5j81jneyr</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SDA Pintamos y enlosamos nuestra clase: proyecto de reforma integral del taller usando las matemáticas.</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El proyecto se centra en la planificación y simulación de una reforma real del aula-taller, concretamente el pintado de paredes y el enlosado del suelo. A través de esta propuesta el alumnado se enfrenta a una situación práctica que conecta directamente con el entorno profesional de los oficios técnicos.
+
+El centro de interés consiste en analizar, medir y planificar una intervención real en el espacio de trabajo, lo que permite comprender cómo se organizan las reformas en el ámbito profesional y cómo interactúan distintos gremios como electricistas, albañiles o pintores.
+
+De este modo, el alumnado aprende a aplicar conocimientos matemáticos, técnicos y digitales en una situación cercana a la realidad laboral, desarrollando habilidades de planificación, resolución de problemas y trabajo en equipo.
+
+Esta situación de aprendizaje está pensada para el alumnado de 2º del Ciclo Formativo de Grado Básico de Electricidad y Electrónica.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Manuel Gallardo García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
